@@ -80,7 +80,24 @@ Computer Science Engineering Student passionate about Artificial Intelligence, M
 
 ## Database
 
+## Database & Data Analytics
+
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Database Skills
+
+- SQL Queries
+- Database Design
+- Relational Database Management Systems (RDBMS)
+- CRUD Operations
+- Data Modeling
+- Data Analysis
+- Data Cleaning
+- Data Visualization
+- Database Optimization
+- Data Integrity & Security
 
 ---
 
@@ -131,38 +148,6 @@ Computer Science Engineering Student passionate about Artificial Intelligence, M
 ✔ Hands-on Experience with Full Stack Development
 
 ✔ Android Application Development using Generative AI
-
----
-
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rajsrinusrinivas123&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsrinusrinivas123&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajsrinusrinivas123&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajsrinusrinivas123&theme=tokyo-night"/>
-
-</div>
 
 ---
 
