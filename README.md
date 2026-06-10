@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Srinivas R
 
-<img src="https://avatars.githubusercontent.com/u/583231?v=4" width="180" alt="Profile Photo"/>
+<img src="https://github.com/rajsrinusrinivas123.png" width="180" alt="Srinivas R"/>
 
 ### AI & ML Enthusiast | Full Stack Developer | Android Developer
 
